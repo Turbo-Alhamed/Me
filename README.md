@@ -64,8 +64,8 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
 
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://github.com/Turbo-Alhamed/turbo-alhamed/blob/main/bom.gif?raw=true" />
 
-https://github.com/Turbo-Alhamed/turbo-alhamed/blob/main/bom.gif?raw=true
 
 
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
