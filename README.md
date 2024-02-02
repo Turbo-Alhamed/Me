@@ -21,7 +21,7 @@
 
 <p>
 
-<img alt="Globe" height="80" src="images/globe.gif">
+<img alt="Globe" height="80" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/globe.gif?raw=true">
 </a>
 </p>
 
@@ -36,7 +36,7 @@
 
 
 <p>
-<img height="100" alt="Music" src="images/music.gif"> 
+<img height="100" alt="Music" src="https://github.com/BrunnerLivio/brunnerlivio/raw/master/images/music.gif"> 
 </a>
 </p>
 
@@ -45,13 +45,13 @@
 </table>
 
 <div align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
+<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="https://github.com/BrunnerLivio/brunnerlivio/raw/master/images/guestbook.svg"></a> 
 </div>
 
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
-| <a href="https://github.com/v3r4ware"><img width="24" src="https://avatars.githubusercontent.com/u/145168001?s=24&u=4185c87ed1cbe924300fdcd7561d09c692f998fb&v=4" alt="v3r4ware" /> v3r4ware</a> |1/30/2024, 3:27:39 PM|awesome readme!|
+| <a href="https://github.com/Zalaya"><img width="40" src="https://avatars.githubusercontent.com/u/136749654?v=4?s=24&u=4185c87ed1cbe924300fdcd7561d09c692f998fb&v=4" alt="v3r4ware" /> El Alicaton</a> |1/30/2024, 3:27:39 PM|awesome readme!|
 | <a href="https://github.com/keshavbansal015"><img width="24" src="https://avatars.githubusercontent.com/u/42906619?s=24&u=faac3599b394a73e47db291845447016b425d7ee&v=4" alt="keshavbansal015" /> keshavbansal015</a> |1/29/2024, 9:35:05 PM|You learn something new everyday 😮|
 | <a href="https://github.com/tariqkhan051"><img width="24" src="https://avatars.githubusercontent.com/u/15242136?s=24&u=4c919d08e5fa330f55bf533dd1acfc27e25f8cb7&v=4" alt="tariqkhan051" /> tariqkhan051</a> |1/25/2024, 7:31:31 AM|unique and catchy 🤩|
 | <a href="https://github.com/kerimembel"><img width="24" src="https://avatars.githubusercontent.com/u/35814055?s=24&u=9c7ff2c0617e471aa17bb3a822c6c823dac509fb&v=4" alt="kerimembel" /> kerimembel</a> |1/14/2024, 3:53:13 PM|That's cool!|
